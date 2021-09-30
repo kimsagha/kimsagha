@@ -9,7 +9,7 @@ In 2018, I made the awesome life-changing decision of moving to Nottingham, UK t
 - [x] Completing my undergraduate degree!
 - [x] [Learn about NLP and complete at least 1 project](https://github.com/kimsagha/NLP_Sentiment_Analysis)
 - [x] [Learn how to host a database on Docker and interact with it using PostgreSQL](https://github.com/kimsagha/DB_Transaction_analysis)
-- [ ] Learn how to build, tune and train an artificial neural network using PyTorch
+- [ ] Learn how to build, tune and train an deep neural network using PyTorch
 - [ ] Learn how to use either of the following two cloud technologies: AWS, GCP
 - [ ] Implement a project where I use an API to extract data
 - [ ] Build a backgammon game that has an AI opponent which is trained with reinforcement learning
