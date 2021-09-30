@@ -16,7 +16,7 @@ My name is Kim and I'm a 22 year old girl from Sweden. I started my tech-journey
 - [x] Become a proficient and independent user of important Python libraries NumPy and Pandas
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsagha&hide=prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsagha&hide=issues)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsagha&layout=compact&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
