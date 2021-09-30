@@ -20,6 +20,17 @@ My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsagha&layout=compact&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
+### Tech Stack
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+#### Technologies
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+#### Python Libraries
+
 ### How to Reach Me
 <a href="https://www.linkedin.com/in/kim-sagha/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
 <a href="mailto:kimiya.sagha@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
