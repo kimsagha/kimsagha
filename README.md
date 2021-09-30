@@ -7,7 +7,7 @@ In 2018, I made the awesome life-changing decision of moving to Nottingham, UK t
 
 
 ### GitHub Account Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsagha&hide=issues, show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsagha&hide=issues&show_icons=true)
 
 
 <!--
