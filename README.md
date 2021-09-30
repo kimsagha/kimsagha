@@ -5,12 +5,16 @@ Hi there, and welcome to my GitHub profile! 👋 My name is Kim and I'm a 22 yea
 
 In 2018, I made the awesome life-changing decision of moving to Nottingham, UK to study Computer Science with Artificial Intelligence at the University of Nottingham where I was the team leader of a year-long project with Capital One and the president of the Computer Science Society CompSoc, aside from learning really cool AI and ML algorithms. Since graduating with my Bachelors degree in August of 2021, I've spent a majority of my time researching new technologies in my main areas of interest and implementing these new skills in projects as demonstrated here on GitHub. Feel free to check them out, fork them and add new features, or contact me to discuss them further!
 
+### Goals for 2021
+[x] [Learning about NLP and completing at least 1 project](https://github.com/kimsagha/NLP_Sentiment_Analysis)
+[x] Learning how to host a database on Docker and interacting with it using PostgreSQL
+[ ] Next thing 
 
 ### GitHub Account Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsagha&hide=issues&show_icons=true&theme=graywhite)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsagha&layout=compact&title_color=000000&bg_color=474747,A0A0A0,838383,666666)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsagha&layout=compact&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 https://github.com/codeSTACKr/codeSTACKr
 -->
