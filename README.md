@@ -7,7 +7,7 @@ My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech
 
 ### Goals for 2021
 - [x] Complete my undergraduate degree!
-- [x] [Learn about NLP and complete at least 1 project](https://github.com/kimsagha/NLP_Classification)
+- [x] [Learn about NLP and complete at least one project](https://github.com/kimsagha/NLP_Classification)
 - [x] [Learn how to host a database on Docker and interact with it using PostgreSQL](https://github.com/kimsagha/DB_Transaction_analysis)
 - [ ] Increase GitHub contributions
 - [ ] Build a deep neural network using PyTorch
