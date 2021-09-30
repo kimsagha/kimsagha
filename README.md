@@ -19,6 +19,7 @@ My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsagha&layout=compact&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-https://github.com/codeSTACKr/codeSTACKr
--->
+
+### How to Reach Me
+<a href="https://www.linkedin.com/in/kimsagha/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+<a href="mailto:kimiya.sagha@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
