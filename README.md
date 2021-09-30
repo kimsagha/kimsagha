@@ -57,7 +57,7 @@ My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech
 ![UnitTest](unittestlogo.png)
 
 ### Things I Like to Do When I’m Not Coding
-![reading](reading.jpeg)
+![reading](reading.png)
 ![backgammon](backgammon.png)
 ![painting](painting.png)
 ![yoga](yoga.png)
