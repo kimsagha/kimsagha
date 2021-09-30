@@ -12,7 +12,7 @@ My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech
 - [ ] Increase GitHub contributions
 - [ ] Build a deep neural network using PyTorch
 - [ ] Learn how to use either of the following two cloud technologies: AWS, GCP
-- [ ] Implement a project where I use an API to extract data
+- [ ] Complete an ML project using an API to extract data
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsagha&hide=issues,stars&theme=graywhite)
