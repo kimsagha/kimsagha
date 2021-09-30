@@ -57,7 +57,10 @@ My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech
 ![UnitTest](unittestlogo.png)
 
 ### Things I Like to Do When I’m Not Coding
-
+![reading](reading.jpeg)
+![backgammon](backgammon.png)
+![painting](painting.png)
+![yoga](yoga.png)
 
 ### How to Reach Me
 <a href="https://www.linkedin.com/in/kim-sagha/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
