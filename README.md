@@ -10,7 +10,7 @@ My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech
 - [x] [Learn about NLP and complete at least one project](https://github.com/kimsagha/NLP_Classification)
 - [x] [Learn how to host a database on Docker and interact with it using PostgreSQL](https://github.com/kimsagha/DB_Transaction_analysis)
 - [ ] Increase GitHub contributions
-- [ ] Build a deep neural network using PyTorch
+- [ ] Build a deep neural network using PyTorch or Tensorflow
 - [ ] Learn how to use either of the following two cloud technologies: AWS, GCP
 - [ ] Complete an ML project using an API to extract data
 
