@@ -56,8 +56,6 @@ My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![UnitTest](unittestlogo.png)
 
-### Most Played on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
 ### How to Reach Me
 <a href="https://www.linkedin.com/in/kim-sagha/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
 <a href="mailto:kimiya.sagha@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
