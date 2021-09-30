@@ -10,7 +10,7 @@ In 2018, I made the awesome life-changing decision of moving to Nottingham, UK t
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsagha&hide=issues&show_icons=true&theme=graywhite)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsagha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsagha)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 <!--
 https://github.com/codeSTACKr/codeSTACKr
 -->
