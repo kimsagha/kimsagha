@@ -13,9 +13,6 @@ My name is Kim and I'm a Junior NLP Engineer from Sweden 🇸🇪 I started my t
 - [ ] Learn how to use either of the following two cloud technologies: AWS, GCP
 - [ ] Complete an ML project using an API to extract data
 
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsagha&hide=issues,stars&theme=graywhite)
-
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsagha&layout=compact&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
