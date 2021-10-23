@@ -6,7 +6,6 @@ Hi! 👋
 My name is Kim and I'm a Junior NLP Engineer from Sweden 🇸🇪 I started my tech-journey in 2017 at Schneider Electric, building smart and efficient building management systems 🌳 In 2021, I got my BSc in Computer Science with Artificial Intelligence 💻 Since then, I've researched new technologies in data science, predominantly focusing on fields within ML such as supervised and unsupervised models, NLP and deep learning, and implementing these new skills in projects as demonstrated here on GitHub 🧠 Feel free to check them out, fork them and add new features, or contact me to discuss them further! 👍
 
 ### Goals for 2021
-- [x] Complete my undergraduate degree!
 - [x] [Learn about NLP and complete at least one project](https://github.com/kimsagha/NLP_Classification)
 - [x] [Learn how to host a database on Docker and interact with it using PostgreSQL](https://github.com/kimsagha/DB_Transaction_analysis)
 - [ ] Increase GitHub contributions
