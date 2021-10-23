@@ -1,9 +1,9 @@
 # **Kim Sagha**
 
 
-Hi there! 👋
+Hi! 👋
 
-My name is Kim and I'm a 22 year old girl from Sweden 🇸🇪 I started my tech-journey in 2017 at Schneider Electric, in the incredible world of IoT and energy, building smart and efficient building management systems 🌳 In 2018, I made the awesome life-changing decision of moving to the UK to study Computer Science with Artificial Intelligence, where I learnt how to program and build AI models 💻 Since graduating, I've spent a majority of my time researching new technologies in data science, predominantly focusing on fields within ML such as supervised and unsupervised models, NLP and deep learning, and implementing these new skills in projects as demonstrated here on GitHub 🧠 Feel free to check them out, fork them and add new features, or contact me to discuss them further! 👍
+My name is Kim and I'm a Junior NLP Engineer from Sweden 🇸🇪 I started my tech-journey in 2017 at Schneider Electric, building smart and efficient building management systems 🌳 In 2021, I got my BSc in Computer Science with Artificial Intelligence 💻 Since then, I've researched new technologies in data science, predominantly focusing on fields within ML such as supervised and unsupervised models, NLP and deep learning, and implementing these new skills in projects as demonstrated here on GitHub 🧠 Feel free to check them out, fork them and add new features, or contact me to discuss them further! 👍
 
 ### Goals for 2021
 - [x] Complete my undergraduate degree!
