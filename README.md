@@ -10,7 +10,7 @@ My name is Kim and I'm a Junior NLP Engineer from Sweden 🇸🇪 I started my t
 - [x] [Learn how to host a database on Docker and interact with it using PostgreSQL](https://github.com/kimsagha/DB_Transaction_analysis)
 - [ ] Increase GitHub contributions
 - [ ] Build a deep neural network using PyTorch or Tensorflow
-- [x] Learn how to use either of the following two cloud technologies: AWS, GCP
+- [x] Learn how to use either of the following two cloud technologies: AWS, GCP (AWS)
 - [ ] Complete an ML project using an API to extract data
 
 ### Top Languages
