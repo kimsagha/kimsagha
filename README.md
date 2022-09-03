@@ -3,7 +3,7 @@
 
 Hi! 👋
 
-My name is Kim and I'm a Junior NLP Engineer from Sweden 🇸🇪 I started my tech-journey in 2017 at Schneider Electric, building smart and efficient building management systems 🌳 In 2021, I got my BSc in Computer Science with Artificial Intelligence 💻 Since then, I've researched new technologies in data science, predominantly focusing on fields within ML such as supervised and unsupervised models, NLP and deep learning, and implementing these new skills in projects as demonstrated here on GitHub 🧠 Feel free to check them out, fork them and add new features, or contact me to discuss them further! 👍
+My name is Kim and I am an AI/ML Data Curation Engineer working in Big Tech – currently based in Barcelona 🇪🇸 I started my tech-journey in 2017 at Schneider Electric in Stockholm 🇸🇪, where I am from, building smart and efficient building management systems 🌳 In 2021, I got my BSc in Computer Science with Artificial Intelligence 💻 and my first graduate role as a Junior NLP Engineer for a startup in London, where I spent the first year of my carrer post-university. The past few years, I've also spent a lot of time researching new technologies in data science, predominantly focusing on fields within ML such as supervised and unsupervised models, NLP and deep learning, and implementing these new skills in projects as demonstrated here on GitHub 🧠 Feel free to check them out, fork them and add new features, or contact me to discuss them further! 👍
 
 ### Goals for the year
 - [x] [Learn about NLP and complete at least one project](https://github.com/kimsagha/NLP_Classification)
